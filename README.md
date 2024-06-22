@@ -27,7 +27,7 @@ In this course, students will learn how to summarize, explore and model data to 
 ## COURSE SCHEDULE AND COURSE MATERIAL
 
 | Weekly Module | Topics | lecture_slides | code_demo | hw_assignment |
-|:----------|:------------------------------|:----------|:----------|:----------|:----------|
+|:----------|:------------------------------|:----------|:----------|:----------|
 |1. Probability I  | <ul><li>probability theorey and random variables</li> <li>bivariate, marginal and conditional distributions</li></ul> | <ul><li>wk1_intro.pdf</li></ul> | <ul><li>demo01.zip</li></ul> | <ul><li>install python3 and required modules through Anaconda suite</li></ul> |
 |2. Probability II  | <ul><li>multivariate random variables and Gaussian random vectors</li> <li>expectations, variance, and covariance</li> <li>probability inequalities</li></ul> | <ul><li>wk2_data_basics.pdf</li></ul> | <ul><li>demo02.zip</li></ul> | <ul><li>lab01.zip</li></ul> |
 |3. Statistical Inference | <ul><li>population and random sampling</li> <li>empirical and sampling distribution</li> <li>Law of Large Numbers and Central Limit Theorem</li></ul> | <ul><li>wk3_Python_basics.pdf</li></ul> | <ul><li>demo03.zip</li></ul> | <ul><li>lab03.zip</li></ul> |
