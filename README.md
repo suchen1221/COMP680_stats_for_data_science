@@ -29,7 +29,7 @@ In this course, students will learn how to summarize, explore and model data to 
 | Weekly Module | Topics | lecture_slides | code_demo | hw_assignment |
 |:----------|:------------------------------|:----------|:----------|:----------|
 |1. Probability I  | <ul><li>probability theorey and random variables</li> <li>bivariate, marginal and conditional distributions</li></ul> | <ul><li>wk1_intro.pdf</li></ul> | <ul><li>wk1demo.zip</li></ul> | <ul><li>install python3 and required modules through Anaconda suite</li> <li>HW0.zip (optional Python tutorial)</li> <li>HW1.zip assigned</li></ul> |
-|2. Probability II  | <ul><li>multivariate random variables and Gaussian random vectors</li> <li>expectations, variance, and covariance</li> <li>probability inequalities</li></ul> | <ul><li>wk2_data_basics.pdf</li></ul> | <ul><li>wk2demo.zip</li></ul> | <ul><li>Quiz 1 </li></ul> |
+|2. Probability II  | <ul><li>multivariate random variables and Gaussian random vectors</li> <li>expectations, variance, and covariance</li> <li>probability inequalities</li></ul> | <ul><li>wk2_data_basics.pdf</li></ul> | <ul><li>wk2demo.zip</li></ul> | <ul><li>Quiz 1 due </li></ul> |
 |3. Statistical Inference | <ul><li>population and random sampling</li> <li>empirical and sampling distribution</li> <li>Law of Large Numbers and Central Limit Theorem</li></ul> | <ul><li>wk3_Python_basics.pdf</li></ul> | <ul><li>wk3demo.zip</li></ul> | <ul><li>HW1.zip due</li> <li>Quiz 2 due</li> <li>HW2.zip assigned</li></ul> |
 |4. Parametric Inference and MLE | <ul><li>point estimate and confidence intervals</li> <li>the likelihood functions</li> <li>MLE and its properties</li></ul> | <ul><li>wk4demo.zip</li></ul> | <ul><li>Quiz 3 due</li></ul> | 
 |5. Nonparametric Inference | <ul><li>parametric and nonparametric bootstrap</li> <li>bootstrap confidence interval</li> <li>kernel density estimate</li> <li>join dataframes</li></ul> | <ul><li>wk5_Pandas_II.pdf</li></ul> | <ul><li>wk5demo.zip</li></ul> | <ul><li>HW2.zip due</li> <li>Quiz 4 due</li> <li>HW3.zip assigned</li></ul> | 
@@ -42,7 +42,7 @@ In this course, students will learn how to summarize, explore and model data to 
 |12. Generalized Linear Models | <ul><li>logistic regression</li> <li>multinomial and ordinal regression</li> <li>poisson regression</li></ul> |  <ul><li>wk12_intro_to_ml.pdf</li></ul> | <ul><li>wk12demo.zip</li></ul> | <ul><li>HW5.zip due</li> <li>Quiz 9 due</li> <li>HW6.zip assigned</li></ul> |
 |13. Regularized and nonlinear regression |  <ul><li>ridge regression</li> <li>lasso regression </li> <li> nonlinear regression with splines </li></ul> |  <ul><li>wk13_decision_trees.pdf</li></ul> | <ul><li>wk13demo.zip</li></ul> | <ul><li>Quiz 10 due</li></ul>  |
 |14. Generalized additive models |  <ul><li> generalized additive models </li> <li> Gaussian mixture models</li></ul> |  <ul><li>wk14_unsupervised_learning.pdf</li></ul> | <ul><li>wk13demo.zip</li></ul> | <ul><li>Quiz 11 due</li></ul> |
-|15. Final Exam | <ul><li> final review and buff time </li></ul> |  |  |  | <ul><li>HW6.zip due</li> <li>Quiz 12 due</li></ul> |
+|15. Final Exam | <ul><li> final review and buff time </li></ul> |  |  | <ul><li>HW6.zip due</li> <li>Quiz 12 due</li></ul> |
 
 ## FOR THOSE WHO INTERESTED:
 - The posted lecture slides only serve as high-level conceptual introduction for the topics covered in the weekly module. During class, more material will be added on the slides including: proofs and derivations, examples, summaries and reviews, etc. 
